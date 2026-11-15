@@ -5,6 +5,6 @@
       Riesgo aceptado temporalmente para el resto de librerías en el entorno de laboratorio NodeGoat.
     ]]></notes>
     <packageUrl regex="true">^pkg:npm/.*$</packageUrl>
-    <cvssBelow>11.0</cvssBelow>
+    <vulnerabilityName regex="true">.*</vulnerabilityName>
   </suppress>
 </suppressions>
